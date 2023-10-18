@@ -19,8 +19,8 @@ I hope that you find this repository useful and informative. Please feel free to
 
 ### Program arranged as per Topics :
 
-* **Usual:**
-      [Link to usual folder]
+* **BASICS :**
+      [Hi.cpp](Usual/hi.cpp)
 * **Useful:**
     [Link to useful folder]
 * **Unusual:**
