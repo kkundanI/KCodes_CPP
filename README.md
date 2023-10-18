@@ -34,11 +34,11 @@ I hope that you find this repository useful and informative. Please feel free to
    * [Pattern_1234.cpp](Usual/pattern_1234.cpp)
    * [Pattern_Rectangle.cpp](Usual/Singlerectangle.cpp)
    * [Matrix.cpp](Usual/Mat.cpp)
-   * [Sum_of_two_Matrix.cpp](Usual/Sum_2Mat.cpp)
+  
   #### Object Oriented Programming :
    ##### Classes and Objects : 
-   -   [khuin](kihn)
-* **Unusual:**
+   * [Sum_of_two_Matrix.cpp](Usual/Sum_2Mat.cpp)
+  * **Unusual:**
      [Link to unusual folder]
 * **Assignments:**
    -  [Link to assignments folder]
