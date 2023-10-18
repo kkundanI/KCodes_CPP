@@ -17,26 +17,27 @@ Welcome to my **KCodes_C++** repository! This repository contains a collection o
 
 I hope that you find this repository useful and informative. Please feel free to use any of the code in your own projects, and please contribute your own code if you have any!
 
-### Program arranged as per Topics :
+### Topicwise Programs :
 
-### BASICS
- * [Hi.cpp](Usual/hi.cpp)
- * [Neon_Number.cpp](Usual/Neon.cpp)
- * [Niven_Number.cpp](Usual/Niven.cpp)
- * [Palindrome_Number.cpp](Usual/Palindromeno.cpp)
- * [Next_prime.hpp](Usual/next_prime.hpp)
- * [Big_and_Small_in_array.cpp](Usual/big&small_in_array.cpp)
- * [Smallest_in_array.cpp](Usual/smallestinarray.cpp)
- * [Sum_of_odd&even_digit_of_no.cpp](Usual/sum_of_odd&even_digit_of_no.cpp)
- * [sum_of_digits_of_a_no.cpp](Usual/sum_of_digits_of_a_no.cpp)
- * [Pattern1.cpp](Usual/_pattern1.cpp)
- * [Pattern2.cpp](Usual/_pattern2.cpp)
- * [Pattern_1234.cpp](Usual/pattern_1234.cpp)
- * [Pattern_Rectangle.cpp](Usual/Singlerectangle.cpp)
- * [Matrix.cpp](Usual/Mat.cpp)
- * [Sum_of_two_Matrix.cpp](Usual/Sum_2Mat.cpp)
-* **Useful:**
-    [Link to useful folder]
+ #### BASICS
+   * [Hi.cpp](Usual/hi.cpp)
+   * [Neon_Number.cpp](Usual/Neon.cpp)
+   * [Niven_Number.cpp](Usual/Niven.cpp)
+   * [Palindrome_Number.cpp](Usual/Palindromeno.cpp)
+   * [Next_prime.hpp](Usual/next_prime.hpp)
+   * [Big_and_Small_in_array.cpp](Usual/big&small_in_array.cpp)
+   * [Smallest_in_array.cpp](Usual/smallestinarray.cpp)
+   * [Sum_of_odd&even_digit_of_no.cpp](Usual/sum_of_odd&even_digit_of_no.cpp)
+   * [sum_of_digits_of_a_no.cpp](Usual/sum_of_digits_of_a_no.cpp)
+   * [Pattern1.cpp](Usual/_pattern1.cpp)
+   * [Pattern2.cpp](Usual/_pattern2.cpp)
+   * [Pattern_1234.cpp](Usual/pattern_1234.cpp)
+   * [Pattern_Rectangle.cpp](Usual/Singlerectangle.cpp)
+   * [Matrix.cpp](Usual/Mat.cpp)
+   * [Sum_of_two_Matrix.cpp](Usual/Sum_2Mat.cpp)
+  #### Object Oriented Programming :
+   ##### Classes and Objects : 
+   -   [khuin](kihn)
 * **Unusual:**
      [Link to unusual folder]
 * **Assignments:**
