@@ -17,9 +17,9 @@ Welcome to my **KCodes_C++** repository! This repository contains a collection o
 
 I hope that you find this repository useful and informative. Please feel free to use any of the code in your own projects, and please contribute your own code if you have any!
 
-### Topicwise Programs :
+## Topicwise Programs :
 
- #### BASICS
+ ### BASICS
    * [Hi.cpp](Usual/hi.cpp)
    * [Neon_Number.cpp](Usual/Neon.cpp)
    * [Niven_Number.cpp](Usual/Niven.cpp)
@@ -35,15 +35,22 @@ I hope that you find this repository useful and informative. Please feel free to
    * [Pattern_Rectangle.cpp](Usual/Singlerectangle.cpp)
    * [Matrix.cpp](Usual/Mat.cpp)
   
-  #### Object Oriented Programming :
+  ### OBJECT ORIENTED PROGRAMMING :
    ##### Classes and Objects : 
    * [Sum_of_two_Matrix.cpp](Usual/Sum_2Mat.cpp)
-  * **Unusual:**
-     [Link to unusual folder]
-* **Assignments:**
-   -  [Link to assignments folder]
-
-
+   ##### Inheritance :
+   ##### Dynamic Memory Allocation :
+   ##### Friend_Function and Friend_Class :
+   ##### Polymorphism :
+   ##### File Handling : 
+   ##### Exception Handling : 
+   
+ ### OTHERS : 
+   
+   
+   
+   
+   
 
 ### Additional information:
 
