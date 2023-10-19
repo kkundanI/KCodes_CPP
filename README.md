@@ -88,7 +88,7 @@ I hope that you find this repository useful and informative. Please feel free to
    * [Char-int.cpp](Unusual/char-int.cpp)
    * [Enter_and_erase_multiple_array.cpp](Unusual/enter_and_erase_multiple_array.cpp)
    * [Fibonacci-with-recursion.cpp](Unusual/fibonacci-with-recursion.cpp)
-   * [Rolling(add history).cpp](Unusual/rolling_addhistory.cpp)
+   * [Rolling_Dice(add history).cpp](Unusual/rolling_addhistory.cpp)
    * [Table_string-1.cpp](Unusual/table_string-1.cpp)
    * [Textfilewithextension.cpp](Useful/textfilewithextension.cpp)
    * [Today's_date.cpp](Useful/today's_date.cpp)
