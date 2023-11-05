@@ -72,8 +72,12 @@ I hope that you find this repository useful and informative. Please feel free to
    * [Overriding2.cpp](Usual/Overriding2.cpp)
    * [Unary+overloading.cpp](Usual/Unary+overloading.cpp)
    ##### File Handling : 
+   * [File_Handling0.cpp](Assignment/File_Handling0.cpp)
+   * [File_Handlin1.cpp](Assignment/File_Handling1.cpp)
+   * [File_Enter_Without_Replacing.cpp](Useful/File_Enter_Without_Replacing.cpp)
+   * <p style="color:orange;"> [File_edit_enter_sameline_TOP.cpp](Useful/File_edit_enter_sameline_TOP.cpp) </p>
    ##### Exception Handling : 
-   
+   * 
  ### OTHERS FOR FUN : 
    
    * [Add_complex_f.cpp](Unusual/Add_Complex_numbers/Add_complex_f.cpp)
