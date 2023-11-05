@@ -75,9 +75,11 @@ I hope that you find this repository useful and informative. Please feel free to
    * [File_Handling0.cpp](Assignment/File_Handling0.cpp)
    * [File_Handlin1.cpp](Assignment/File_Handling1.cpp)
    * [File_Enter_Without_Replacing.cpp](Useful/File_Enter_Without_Replacing.cpp)
-   * <p style="color:orange;"> [File_edit_enter_sameline_TOP.cpp](Useful/File_edit_enter_sameline_TOP.cpp) </p>
+   * [File_edit_enter_sameline_TOP.cpp](Useful/File_edit_enter_sameline_TOP.cpp) 
    ##### Exception Handling : 
-   * 
+   * [Exception_Handling0.cpp](Assignment/Exception_Handling0.cpp)
+   * [Exception_Handling1.cpp](Assignment/Exception_Handling1.cpp)
+   * [Student_Details_Exception-Age.cpp](Useful/Student_Details-Age.cpp)
  ### OTHERS FOR FUN : 
    
    * [Add_complex_f.cpp](Unusual/Add_Complex_numbers/Add_complex_f.cpp)
