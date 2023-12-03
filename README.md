@@ -1,7 +1,7 @@
 # KCodes_C++ :
  👋 Hi,🎉 I'm excited to have you here!
   
-Welcome to my **KCodes_C++** repository! This repository contains a collection of C++ programs that I have written while and after learning C++ programming. It is divided into four derectories:
+Welcome to my **KCodes_C++** repository! This repository contains a collection of C++ programs that I have written while and after learning C++ programming. It is divided into four directories:
 
 * **Usual:**
   > This folder contains all of the codes that were discussed and taught in my C++ course.
